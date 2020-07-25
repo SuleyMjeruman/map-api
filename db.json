@@ -1,0 +1,89 @@
+{
+    "hospitals": [
+        {
+            "hospitalname": "Dodoma General Hospital",
+            "latitude": "-6.1822915",
+            "longtude": "35.7444236"
+        },
+        {
+            "hospitalname": "UMATI Clinic",
+            "latitude": "-6.16165",
+            "longtude": "35.7373127"
+        },
+        {
+            "hospitalname": "Mackay Hospital",
+            "latitude": "-6.1813102",
+            "longtude": "35.74528189999999"
+        },
+        {
+            "hospitalname": "COED Dispensary",
+            "latitude": "-6.2280256",
+            "longtude": "35.8350668"
+        },
+        {
+            "hospitalname": "CIVE Dispensary",
+            "latitude": "-6.2167187",
+            "longtude": "35.8112139"
+        },
+        {
+            "hospitalname": "Benjamin Mkapa Hospital (BMH)",
+            "latitude": "-6.23004",
+            "longtude": "35.847523"
+        },
+        {
+            "hospitalname": "Vikonje Dispensary",
+            "latitude": "-6.162959000000001",
+            "longtude": "35.75160689999999"
+        },
+        {
+            "hospitalname": "IRDP Dispensary",
+            "latitude": "-6.162959000000001",
+            "longtude": "35.75160689999999"
+        },
+        {
+            "hospitalname": "DN Dispensary",
+            "latitude": "-6.1682153",
+            "longtude": "35.7580361"
+        },
+        {
+            "hospitalname": "Amani Hospital",
+            "latitude": "-6.160625400000001",
+            "longtude": "35.76069"
+        },
+        {
+            "hospitalname": "Avenue Medical Clinic",
+            "latitude": "-6.174416",
+            "longtude": "35.7500507"
+        },
+        {
+            "hospitalname": "NAVAN Specialized Polyclinic",
+            "latitude": "-6.176789999999999",
+            "longtude": "35.7496438"
+        },
+        {
+            "hospitalname": "Makole Hospital",
+            "latitude": "-6.1793663",
+            "longtude": "35.7520089"
+        },
+        {
+            "hospitalname": "Safina Dispensary",
+            "latitude": "-6.176608",
+            "longtude": "35.7409615"
+        },
+        {
+            "hospitalname": "Aga Khan Medical Centre",
+            "latitude": "-6.1795136",
+            "longtude": "35.7456146"
+        },
+        {
+            "hospitalname": "DECCA Polyclinic Dodoma",
+            "latitude": "-6.1814482",
+            "longtude": "35.7447149"
+        },
+        {
+            "hospitalname": "Matovolwa Health Center",
+            "latitude": "-6.1649571",
+            "longtude": "35.73086"
+        }
+    ]
+}
